@@ -1,5 +1,3 @@
 # Burn-Ya
 
-* Formula defined waveform generator
-
-* Hardware based on ATtiny Multiboard
+Formula defined waveform generator based on ATtiny Multiboard
