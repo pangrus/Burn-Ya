@@ -8,7 +8,7 @@
  | _ \ |_| |   /| .` |    \ V / / _ \   
  |___/\___/|_|_\|_|\_|     |_| /_/ \_\  
                                         
- Burn-Ya sound generator
+ Burn-Ya - formula defined waveform generator
  Hardware based on ATtiny Multiboard
  https://github.com/pangrus/ATtiny_Multiboard
  Pangrus 2018
